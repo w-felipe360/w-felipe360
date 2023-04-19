@@ -37,10 +37,12 @@
 <div align="center">
 
 ## 📈 GitHub Stats
-![w-felipe360's GitHub stats](https://github-readme-stats.vercel.app/api?username=w-felipe360&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-felipe360&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<a href="https://github.com/w-felipe360/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=w-felipe360&repo=convoychat" />
+</a>
 
 
 
