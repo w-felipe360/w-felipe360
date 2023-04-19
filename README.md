@@ -33,12 +33,10 @@
   </p>
 </div>
 
-<div align="center">
 
 ## 📈 GitHub Stats
 ![w-felipe360's GitHub stats](https://github-readme-stats.vercel.app/api?username=w-felipe360&show_icons=true&theme=dracula)
 
-</div>
 
 
 
