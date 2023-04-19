@@ -2,7 +2,7 @@
 
 <h2>Sobre mim</h2>
 <img src="https://raw.githubusercontent.com/w-felipe360/w-felipe360/main/imageedit_1_7520972899.gif" alt="programando" width="300" align="right" style="margin-left: 50px; border-radius: 150px;">
-<p>🤓 Meu nome é Willian Felipe, um desenvolvedor web Fullstack apaixonado por tecnologia e sempre em busca de novos desafios. Tenho 20 anos e moro em Recife, Pernambuco.</p>
+<p>🤓Sou um desenvolvedor web Fullstack apaixonado por tecnologia e sempre em busca de novos desafios. Tenho 20 anos e moro em Recife, Pernambuco.</p>
 <p>📚 Atualmente, estou me formando na Trybe e me aprofundando em Backend, mas também adoro trabalhar com Frontend e deixar as coisas visualmente atraentes.</p>
 <p>💻 Tenho habilidades em JavaScript, React, NodeJs, e outras tecnologias. Além disso, sou muito bom em comunicação clara e trabalho em equipe, o que me permite colaborar efetivamente em projetos em grupo.</p>
 <p>🚀 Fora da programação, sou fascinado por ficção científica e futurologia, e sempre procuro explorar as últimas tendências e tecnologias em todas as áreas.</p>
