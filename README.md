@@ -9,7 +9,7 @@
 <p>🤝 Estou sempre aberto a novas oportunidades e desafios, então, se quiser saber mais sobre mim ou como posso ajudar em seu projeto, entre em contato!</p>
 
 
-<h2 align="center">🛠️ Habilidades</h2>
+<h2 align="center">🛠️Habilidades</h2>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML">
@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-  <h2>📧 Contato</h2>
+  <h2>📧Contato</h2>
   <p>
     <a href="mailto:w.felipebraz@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
