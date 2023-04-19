@@ -33,7 +33,8 @@
 
 ## 📈 GitHub Stats
 ![w-felipe360's GitHub stats](https://github-readme-stats.vercel.app/api?username=w-felipe360&show_icons=true&theme=dracula)
-<a href="https://github.com/w-felipe360" style="float: right;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-felipe360&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/w-felipe360" style="float: right;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-felipe360&langs_count=10&title_color=0366d6&text_color=ffffff&icon_color=0366d6&bg_color=0d1117&hide_border=true&locale=en&custom_title=Principais%20Linguagens" alt="Top Languages" /></a>
+
 
 
 
