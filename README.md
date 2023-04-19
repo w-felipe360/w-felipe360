@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
 </p>
 
-## Contato
-- Email: [seu_email](mailto:seu_email)
-- LinkedIn: [seu perfil no LinkedIn](link_para_seu_perfil_no_LinkedIn)
+<h2>Contato</h2>
+<p>
+  <a href="mailto:w.felipebraz@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/will-felipe/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+</p>
