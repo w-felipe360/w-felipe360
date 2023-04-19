@@ -1,4 +1,4 @@
- <h1 style="border: none;"> Opa, E aí ✌️</h1>
+### Opa, e aí? ✌️
 
 <h2>Sobre mim</h2>
 <p>👨‍💻 Sou Willian Felipe, um desenvolvedor web Fullstack apaixonado por tecnologia e sempre em busca de novos desafios. Tenho 20 anos e moro em Recife, Pernambuco.</p>
