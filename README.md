@@ -19,12 +19,6 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJs">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Testing_Library-EE493A?style=for-the-badge&amp;logo=testing-library&amp;logoColor=white" alt="Testing Library">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="npm">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" alt="Slack">
 </p>
 
 <div align="center">
