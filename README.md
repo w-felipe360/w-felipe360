@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
 </p>
 
-<div style="text-align: center;">
+<div align="center">
   <h2>Contato</h2>
   <p>
     <a href="mailto:w.felipebraz@gmail.com">
