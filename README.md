@@ -7,12 +7,6 @@
 <p>🚀 Fora da programação, sou fascinado por ficção científica e futurologia, e sempre procuro explorar as últimas tendências e tecnologias em todas as áreas.</p>
 <p>🤝 Estou sempre aberto a novas oportunidades e desafios, então, se quiser saber mais sobre mim ou como posso ajudar em seu projeto, entre em contato!</p>
 
-<h2>Projetos</h2>
-<ul>
-  <li><a href="link_para_projeto_1">Projeto 1</a> - descrição do projeto 1</li>
-  <li><a href="link_para_projeto_2">Projeto 2</a> - descrição do projeto 2</li>
-</ul>
-
 <h2>Habilidades</h2>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
