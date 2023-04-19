@@ -19,8 +19,15 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
 </p>
 
-<h2>Contato</h2>
-<p>
-  <a href="mailto:w.felipebraz@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="E-mail"></a>
-  <a href="https://www.linkedin.com/in/will-felipe/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-</p>
+<div style="text-align: center;">
+  <h2>Contato</h2>
+  <p>
+    <a href="mailto:w.felipebraz@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/will-felipe/" target="_blank">
+      <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
+    </a>
+  </p>
+</div>
+
