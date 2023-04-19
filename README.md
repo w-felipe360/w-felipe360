@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 ## Sobre mim
-Eu sou um desenvolvedor web full-stack com experiência em JavaScript, HTML, CSS, ReactJs, APIs RESTful, Express, NodeJs e MySQL.
+👨‍💻 Sou Willian Felipe, um desenvolvedor web Fullstack apaixonado por tecnologia e sempre em busca de novos desafios. Tenho 20 anos e moro em Recife, Pernambuco.
+📚 Atualmente, estou me formando na Trybe e me aprofundando em Backend, mas também adoro trabalhar com Frontend e deixar as coisas visualmente atraentes.
+💻 Tenho habilidades em JavaScript, React, NodeJs, e outras tecnologias. Além disso, sou muito bom em comunicação clara e trabalho em equipe, o que me permite colaborar efetivamente em projetos em grupo.
+🚀 Fora da programação, sou fascinado por ficção científica e futurologia, e sempre procuro explorar as últimas tendências e tecnologias em todas as áreas.
+🤝 Estou sempre aberto a novas oportunidades e desafios, então, se quiser saber mais sobre mim ou como posso ajudar em seu projeto, entre em contato!
 
 ## Projetos
 - [Projeto 1](link_para_projeto_1) - descrição do projeto 1
