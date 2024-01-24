@@ -54,11 +54,10 @@
   </p>
 </div>
 
-
 <div align="center">
 
 ## 📈 GitHub Stats
-![w-felipe360's GitHub stats](https://github-readme-stats.vercel.app/api?username=w-felipe360&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-felipe360&layout=compact&theme=radical)](https://github.com/w-felipe360/github-readme-stats)
 </div>
 
 
