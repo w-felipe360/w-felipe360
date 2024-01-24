@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<div align="left">
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-felipe360&theme=midnight-purple&hide=blade,html,css&layout=compact)](https://github.com/w-felipe360/github-readme-stats)
 </div>
