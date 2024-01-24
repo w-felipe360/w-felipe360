@@ -43,6 +43,13 @@
   </table>
 
 <div align="center">
+
+  <div align="center">
+
+## 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-felipe360&layout=default&theme=merko)](https://github.com/w-felipe360/github-readme-stats)
+</div>
+
   <h2>📧 Contato</h2>
   <p>
     <a href="mailto:w.felipebraz@gmail.com">
@@ -52,12 +59,6 @@
       <img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin">
     </a>
   </p>
-</div>
-
-<div align="center">
-
-## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-felipe360&layout=compact&theme=radical)](https://github.com/w-felipe360/github-readme-stats)
 </div>
 
 
