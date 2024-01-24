@@ -51,7 +51,7 @@
 </div>
 
 <div align="center">
-##  💬 Contato
+<h2>💬 Contato</h2>
 <p>w.felipebraz@gmail.com</p>
 <p>📱 Celular: (81) 98951-2027</p>
 <a href="https://www.linkedin.com/in/will-felipe">
