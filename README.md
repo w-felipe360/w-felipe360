@@ -50,12 +50,15 @@
 </div>
 </div>
 
+<div align="center">
 ##  💬 Contato
 <p>w.felipebraz@gmail.com</p>
 <p>📱 Celular: (81) 98951-2027</p>
 <a href="https://www.linkedin.com/in/will-felipe">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" target="_blank">
 </a>
+  
+</div>
 
 
 
