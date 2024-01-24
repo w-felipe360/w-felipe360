@@ -44,10 +44,10 @@
 
 <div align="center">
 
-  <div align="center">
+<div align="center">
 
 ## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-felipe360&layout=default&theme=merko)](https://github.com/w-felipe360/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-felipe360&theme=midnight-purple&hide=blade,html,css&layout=compact)](https://github.com/w-felipe360/github-readme-stats)
 </div>
 
   <h2>📧 Contato</h2>
