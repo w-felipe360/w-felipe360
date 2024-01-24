@@ -52,12 +52,7 @@
 
 <div align="center">
 <h2>💬 Contato</h2>
-<p>
-  <a href="mailto:w.felipebraz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30px">
-  </a>
-  w.felipebraz@gmail.com
-</p>
+<p> 📧 E-mail: w.felipebraz@gmail.com</p>
 <p>📱 Celular: (81) 98951-2027</p>
 <a href="https://www.linkedin.com/in/will-felipe">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" target="_blank">
