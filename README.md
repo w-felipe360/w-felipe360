@@ -11,51 +11,35 @@
 
 <h2 align="center">🛠️ Habilidades</h2>
 
-<table align="center">
-  <tr>
-    <td valign="top">
-      <h3 align="center">Front-end</h3>
-      <table>
-        <tr>
-          <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript"></td>
-          <td><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML"></td>
-          <td><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS"></td>
-          <td><img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="SASS"></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="ReactJs"></td>
-          <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"></td>
-          <td><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular"></td>
-          <td><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vue.js&amp;logoColor=white" alt="Vue.js"></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"></td>
-        </tr>
-      </table>
-    </td>
-    <td valign="top">
-      <h3 align="center">Back-end</h3>
-      <table>
-        <tr>
-          <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJs"></td>
-          <td><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express"></td>
-          <td><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS"></td>
-          <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"></td>
-          <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"></td>
-          <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"></td>
-          <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java"></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&amp;logo=sequelize&amp;logoColor=white" alt="Sequelize"></td>
-          <td><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td><strong>Front-end</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" height="25px" width="105px">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" height="25px" width="65px">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS" height="25px" width="65px">
+        <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="ReactJs" height="25px" width="80px">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="25px" width="105px">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" height="25px" width="85px">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vue.js&amp;logoColor=white" alt="Vue.js" height="25px" width="85px">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" height="25px" width="90px">
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Back-end</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJs" height="25px" width="85px">
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" height="25px" width="100px">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="25px" width="85px">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" height="25px" width="95px">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="25px" width="105px">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" height="25px" width="85px">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java" height="25px" width="70px">
+        <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&amp;logo=sequelize&amp;logoColor=white" alt="Sequelize" height="25px" width="95px">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring" height="25px" width="75px">
+      </td>
+    </tr>
+  </table>
 
 <div align="center">
   <h2>📧 Contato</h2>
