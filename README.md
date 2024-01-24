@@ -49,10 +49,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-felipe360&theme=midnight-purple&hide=blade,html,css&layout=compact)](https://github.com/w-felipe360/github-readme-stats)
 </div>
 </div>
-## 👥 Contato
-<a href="mailto:w.felipebraz@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23333.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30px">
-</a>
+ 💬 Contato
 <p>w.felipebraz@gmail.com</p>
 <p>📱 Celular: (81) 98951-2027</p>
 <a href="https://www.linkedin.com/in/will-felipe">
