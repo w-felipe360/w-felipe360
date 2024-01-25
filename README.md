@@ -32,14 +32,14 @@
       <td>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJs" height="25px" width="85px">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="25px" width="105px">
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java" height="25px" width="70px">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring" height="25px" width="75px">
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" height="25px" width="100px">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="25px" width="85px">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" height="25px" width="95px">
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="25px" width="105px">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" height="25px" width="85px">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java" height="25px" width="70px">
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&amp;logo=sequelize&amp;logoColor=white" alt="Sequelize" height="25px" width="95px">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" alt="Spring" height="25px" width="75px">
       </td>
     </tr>
   </table>
