@@ -17,7 +17,7 @@
       <td>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" height="25px" width="65px">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS" height="25px" width="65px">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" height="25px" width="105px">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" height="25px" width="105px">
         <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="ReactJs" height="25px" width="80px">
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" height="25px" width="85px">
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vue.js&amp;logoColor=white" alt="Vue.js" height="25px" width="85px">
