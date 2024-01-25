@@ -21,6 +21,7 @@
         <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="ReactJs" height="25px" width="80px">
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" height="25px" width="85px">
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vue.js&amp;logoColor=white" alt="Vue.js" height="25px" width="85px">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="25px" width="65px">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" height="25px" width="90px">
         <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="Sass" height="25px" width="65px">
       </td>
