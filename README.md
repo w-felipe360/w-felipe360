@@ -15,11 +15,10 @@
     <tr>
       <td><strong>Front-end</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" height="25px" width="105px">
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML" height="25px" width="65px">
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS" height="25px" width="65px">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" height="25px" width="105px">
         <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="ReactJs" height="25px" width="80px">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="25px" width="105px">
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" height="25px" width="85px">
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vue.js&amp;logoColor=white" alt="Vue.js" height="25px" width="85px">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" height="25px" width="90px">
@@ -30,6 +29,7 @@
       <td><strong>Back-end</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJs" height="25px" width="85px">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="25px" width="105px">
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express" height="25px" width="100px">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="25px" width="85px">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" height="25px" width="95px">
